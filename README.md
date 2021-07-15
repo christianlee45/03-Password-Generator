@@ -24,3 +24,5 @@ THEN the password is either displayed in an alert or written to the page
 
 ##LINK TO SITE
 https://christianlee45.github.io/03-Password-Generator/
+<img width="890" alt="Screen Shot 2021-07-14 at 11 36 48 PM" src="https://user-images.githubusercontent.com/78834444/125725376-9b851c84-ab7f-4c15-9b74-c5cfcb7cbda7.png">
+
