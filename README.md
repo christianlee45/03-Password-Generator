@@ -22,4 +22,5 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 
-LINK TO SITE--https://christianlee45.github.io/03-homework/
+##LINK TO SITE
+https://christianlee45.github.io/03-Password-Generator/
